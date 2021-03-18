@@ -31,10 +31,9 @@ driver.get(url);
 		// TODO Auto-generated method stub
 element.sendKeys(value);
 	}
-	public void enterText2(WebElement element ,String value) {
-		element.sendKeys(value);
+	
 
-	}
+	
 	public void click(WebElement element) {
 		// TODO Auto-generated method stub
 element.click();
